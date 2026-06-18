@@ -1,4 +1,4 @@
-Temperature   ChiT_Data      ChiT_Model      
+Temperature(K)   ChiT_Data(emu.K/mol.Oe)      ChiT_Model(emu.K/mol.Oe)     
 2.00060      5.23588        5.09764     
 2.18811      5.30990        5.22550     
 2.37561      5.40618        5.33272     
